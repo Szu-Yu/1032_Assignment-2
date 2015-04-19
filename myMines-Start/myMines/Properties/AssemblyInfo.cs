@@ -8,12 +8,12 @@ using System.Windows;
 // 變更這些屬性的值即可修改組件的相關
 // 資訊。
 [assembly: AssemblyTitle("myMines")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Beyond Description")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("myMines")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2010")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyProduct("朱思瑀")]
+[assembly: AssemblyCopyright("資管二102306045")]
+[assembly: AssemblyTrademark("102306045")]
 [assembly: AssemblyCulture("")]
 
 // 將 ComVisible 設定為 false 會使得這個組件中的型別

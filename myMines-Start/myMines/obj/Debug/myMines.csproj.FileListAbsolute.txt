@@ -1,0 +1,15 @@
+\\psf\Home\Desktop\1032_Assignment-2\myMines-Start\myMines\bin\Debug\myMines.exe.config
+\\psf\Home\Desktop\1032_Assignment-2\myMines-Start\myMines\bin\Debug\myMines.exe
+\\psf\Home\Desktop\1032_Assignment-2\myMines-Start\myMines\bin\Debug\myMines.pdb
+\\psf\Home\Desktop\1032_Assignment-2\myMines-Start\myMines\obj\Debug\myMines.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\1032_Assignment-2\myMines-Start\myMines\obj\Debug\Window1.baml
+\\psf\Home\Desktop\1032_Assignment-2\myMines-Start\myMines\obj\Debug\Window1.g.cs
+\\psf\Home\Desktop\1032_Assignment-2\myMines-Start\myMines\obj\Debug\App.g.cs
+\\psf\Home\Desktop\1032_Assignment-2\myMines-Start\myMines\obj\Debug\myMines_MarkupCompile.cache
+\\psf\Home\Desktop\1032_Assignment-2\myMines-Start\myMines\obj\Debug\myMines.g.resources
+\\psf\Home\Desktop\1032_Assignment-2\myMines-Start\myMines\obj\Debug\myMines.Properties.Resources.resources
+\\psf\Home\Desktop\1032_Assignment-2\myMines-Start\myMines\obj\Debug\myMines.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\1032_Assignment-2\myMines-Start\myMines\obj\Debug\myMines.exe
+\\psf\Home\Desktop\1032_Assignment-2\myMines-Start\myMines\obj\Debug\myMines.pdb
+\\psf\Home\Desktop\1032_Assignment-2\myMines-Start\myMines\obj\Debug\myMines.AboutBox1.resources
+\\psf\Home\Desktop\1032_Assignment-2\myMines-Start\myMines\obj\Debug\myMines.AboutBox2.resources
